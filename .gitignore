@@ -47,7 +47,12 @@ web/build/
 
 #env
 .env.local
+.env
 
 #logs
 log/
 logs/
+
+#docker
+dockerimage/
+searchai.tar

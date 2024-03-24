@@ -36,7 +36,10 @@ export const AliyunModels = {
 export const OpenAIModels = {
   GPT35TURBO: 'gpt-3.5-turbo',
   GPT4: 'gpt-4',
-  GPT4TURBO_PREVIEW: 'gpt-4-turbo-preview'
+  GPT4TURBO_PREVIEW: 'gpt-4-turbo-preview',
+  llama270b4096: 'llama2-70b-4096',
+  mixtral8x7b32768: 'mixtral-8x7b-32768',
+  QWEN14B: 'qwen:14b'
 };
 
 export const BaiduModels = {
