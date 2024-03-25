@@ -1,5 +1,5 @@
-const URL = 'http://127.0.0.1:6543/api/search';
-const MODEL = 'http://127.0.0.1:6543/api/models';
+const URL = 'http://192.168.1.32:6543/api/search';
+const MODEL = 'http://192.168.1.32:6543/api/models';
 import { fetchEventData } from 'fetch-sse';
 
 export interface IQueryOptions {
