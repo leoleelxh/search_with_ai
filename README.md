@@ -78,4 +78,4 @@ yarn install
 cd web && yarn install && yarn run build
 ```
 
-启动成功后可以在浏览器打开http://localhost:3210 即可使用。
+启动成功后可以在浏览器打开http://localhost:6543 即可使用。

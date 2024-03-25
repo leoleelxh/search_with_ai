@@ -46,8 +46,9 @@ dist/
 web/build/
 
 #env
-.env.local
 .env
+.env.local
+
 
 #logs
 log/

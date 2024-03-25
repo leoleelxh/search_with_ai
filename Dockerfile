@@ -14,7 +14,7 @@ RUN yarn install && yarn run build
 RUN cd web && yarn install && yarn run build
 
 # 暴露端口（根据项目实际使用的端口进行修改）
-EXPOSE 3210
+EXPOSE 6543
 
 # 启动应用程序
 CMD ["yarn", "run", "start"]
